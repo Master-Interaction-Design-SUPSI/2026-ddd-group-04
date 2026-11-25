@@ -2,8 +2,8 @@
   <title>Demonstration — invented values: 20, 35 and 50</title>
   <rect width="1920" height="1080" fill="#f7f6f2"/>
   <g fill="#202724" font-family="sans-serif">
-    <text x="120" y="140" font-size="58">DEMONSTRATION — INVENTED DATA</text>
-    <text x="120" y="210" font-size="32">Replace this visual with your group's own work.</text>
+    <text x="120" y="140" font-size="58"></text>
+    <text x="120" y="210" font-size="32">Visual_04</text>
   </g>
   <g fill="#116964">
     <rect x="300" y="650" width="300" height="200"/>
