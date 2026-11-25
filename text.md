@@ -1,5 +1,5 @@
 ---
-title: Comparing Three Values
+title: AI induced psychosis
 authors: Migliore Francesco, Vendramini Valerio
 ---
 
